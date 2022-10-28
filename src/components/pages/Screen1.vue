@@ -117,6 +117,12 @@
           ncDisableBorderColor="transparent" ncClickBackgroundColor="#4285f4" ncFocusBackgroundColor="#4285f4"
           ncHoverBackgroundColor="#4285f4" ncDisableBackgroundColor="#969696" id="f56f62a3-00c5-4f57-9aae-bbd96705c495"
           v-bind:style="{'width':'69px','height':'27.75px','zIndex':21,'fontSize':'12.375px','maxWidth':'','minWidth':'','tabIndex':'0px','boxShadow':'','fontStyle':'normal','marginTop':'0px','maxHeight':'','minHeight':'','textAlign':'center','fontFamily':'OpenSans-Regular,Open Sans','fontWeight':'normal','lineHeight':'0.7874999999999999','marginLeft':'0px','paddingTop':'','textShadow':'','visibility':'visible','borderStyle':'none','marginRight':'0px','paddingLeft':'','marginBottom':'0px','paddingRight':'','paddingBottom':'','borderTopWidth':'0.5625px','textDecoration':'underline','borderLeftWidth':'0.5625px','borderRightWidth':'0.5625px','horizontalHeight':'21.11326875px','borderBottomWidth':'0.5625px','borderTopLeftRadius':'2.25px','borderTopRightRadius':'2.25px','borderBottomLeftRadius':'2.25px','borderBottomRightRadius':'2.25px'}"/>
+        <WAdvertisement v-bind:blank="true" imgSrc="" v-bind:overlay="true" cardText="Medium Rectangle" imgWidth="300px"
+          bgVariant="secondary" imgHeight="300px" textVariant="white"
+          v-bind:nucalDataModel="{'type':'NSW','isList':false,'dynamic':false,'structure':[{'type':'string','propName':'imgSrc','displayName':'ImageUrl'},{'type':'string','propName':'cardText','displayName':'Value'}]}"
+          verticalPosition="align-items-center" horizontalPosition="justify-content-center" position="absolute"
+          top="21.671127450980393%" left="35.088270283131095%" id="d573140b-3a5d-4ead-87d8-2b8a9eac0706"
+          v-bind:style="{'width':'197.04999999999998','height':'33.779999999999994','maxWidth':'','minWidth':'','marginTop':'0px','maxHeight':'','minHeight':'','marginLeft':'0px','paddingTop':'0px','marginRight':'0px','paddingLeft':'0px','marginBottom':'0px','paddingRight':'0px','paddingBottom':'0px','zIndex':22}"/>
       </NucGroupElement>
     </NucGridCell>
   </NucGridPage>
